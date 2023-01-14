@@ -5,7 +5,7 @@ Place this Dolphin-SU.desktop file into /usr/share/applications/
 
 It should then show up in your KDE kickoff menu
 
-It is working for me on Arch Linux. I also have it working just fine on Debian. This has long been an option in openSUSE and I missed it in Arch. It may or may not work on other distros.
+It is working for me on Arch, Debian and Fedora. This has long been an option in openSUSE and I missed it in Arch. It may or may not work on other distros. Depending where the .desktop files are stored.
 
 For the icon associated with the shortcut, I prefer to change the default one to folder-important since it is red and looks different from the default dolphin icon. When selecting the icon, just change the pull down menu to ALL and type in folder-important.
 
