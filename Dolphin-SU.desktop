@@ -1,3 +1,4 @@
+#!/usr/bin/env xdg-open
 [Desktop Entry]
 Categories=Qt;KDE;System;FileTools;FileManager;
 Comment[en_US]=
