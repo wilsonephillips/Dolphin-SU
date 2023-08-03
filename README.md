@@ -1,7 +1,7 @@
 # Dolphin-SU
 Dolphin shortcut to run Dolphin as SuperUser
 
-Place this Dolphin-SU.desktop file into /usr/share/applications/ or ~/.local/share/applications/
+Place this Dolphin-SU.desktop file into ~/.local/share/applications/
 Make sure it is set to executable!
 
 It should then show up in your KDE kickoff menu
