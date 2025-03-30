@@ -1,5 +1,5 @@
 # Dolphin-SU
-Dolphin shortcut to run Dolphin as SuperUser
+Dolphin shortcut to run Dolphin as SuperUser on OpenMandriva
 
 Place this Dolphin-SU.desktop file into ~/.local/share/applications/
 Make sure it is set to executable!
